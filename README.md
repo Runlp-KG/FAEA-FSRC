@@ -1,4 +1,4 @@
-# 2022 IJCAI 《Function-words Adaptively Enhanced Attention Networks for Few-Shot Inverse Relation Classification》
+# 2022 IJCAI "Function-words Adaptively Enhanced Attention Networks for Few-Shot Inverse Relation Classification"
 
 
 ## Requirements
