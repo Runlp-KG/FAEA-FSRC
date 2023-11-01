@@ -1,5 +1,4 @@
-# FAEA-FSRC
-The source code of paper 《Function-words Adaptively Enhanced Attention Networks for Few-Shot Inverse Relation Classification》, accepted to IJCAI 2022.
+# 2022 IJCAI 《Function-words Adaptively Enhanced Attention Networks for Few-Shot Inverse Relation Classification》
 
 
 ## Requirements
@@ -71,3 +70,24 @@ python train.py \
 |  ---------------  | -----------  | ------------- | ------------ | ------------- |
 | Val               | 90.81 | 94.24 | 84.22 | 88.74 |
 | Test              | 95.10 | 96.48 | 90.12 | 92.72 |
+
+
+## Cite
+@inproceedings{DBLP:conf/ijcai/DouWZ0W22,<br>
+  author       = {Chunliu Dou and
+                  Shaojuan Wu and
+                  Xiaowang Zhang and
+                  Zhiyong Feng and
+                  Kewen Wang},<br>
+  title        = {Function-words Adaptively Enhanced Attention Networks for Few-Shot
+                  Inverse Relation Classification},<br>
+  booktitle    = {Proceedings of the Thirty-First International Joint Conference on
+                  Artificial Intelligence (IJCAI)},<br>
+  pages        = {2937--2943},<br>
+  publisher    = {ijcai.org},<br>
+  year         = {2022},<br>
+  url          = {https://doi.org/10.24963/ijcai.2022/407},<br>
+  doi          = {10.24963/IJCAI.2022/407},<br>
+  biburl       = {https://dblp.org/rec/conf/ijcai/DouWZ0W22.bib},<br>
+  bibsource    = {dblp computer science bibliography, https://dblp.org}<br>
+}
